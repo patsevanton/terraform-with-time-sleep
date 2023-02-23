@@ -31,5 +31,5 @@ override.tf.json
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
-/.idea/terraform-with-time-sleep.iml
+/.idea/terraform-time-sleep.iml
 /.idea/vcs.xml
